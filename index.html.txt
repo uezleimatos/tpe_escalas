@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0;url=https://script.google.com/macros/s/AKfycbwzHzjIH-lfkmP8998-MdCp3qCYZR_M7-It4V57QLUYYXIiw2s-OO0qXEWgzyNu__R92A/exec" />
+    <title>Redirecionando...</title>
+  </head>
+  <body>
+    Se você não for redirecionado, <a href="https://script.google.com/macros/s/SEU_ID/exec">clique aqui</a>.
+  </body>
+</html>
